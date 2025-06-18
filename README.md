@@ -31,7 +31,7 @@ Tkinter – for GUI
 CSV module – for saving results
 
 📂 Output Example
-
+![Image](https://github.com/user-attachments/assets/9c0a553e-ab41-4b89-a09b-08555eaf4b1c)
 
 
 Name,Age,Weight(kg),Height(feet),Height(inches),BMI,Category
